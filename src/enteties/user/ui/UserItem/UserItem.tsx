@@ -65,6 +65,7 @@ export const UserItem: FC<TodoItemProps> = ({
       }),
     );
   };
+  console.log(addNewUser);
 
   const openModalHandler = () => {
     setOpenModal(true);
