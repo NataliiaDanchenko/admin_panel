@@ -156,7 +156,7 @@ export const UserItem: FC<TodoItemProps> = ({
             transform: 'translateY(10%)',
           }}
         >
-          <Typography align='center'>Update Todo</Typography>
+          <Typography align='center'>Update User</Typography>
           <Stack
             direction='column'
             gap={2}
